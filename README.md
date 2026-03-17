@@ -13,6 +13,7 @@ Includes:
 
 Google Drive Link:
 https://drive.google.com/drive/folders/1ow4_rk7_Mdf2fnkjaCSK30CEnNDa4H1a?usp=sharing
+https://drive.google.com/drive/folders/1Z36piVVEtp0OS1ALpxwOY-iXkk3p-Nff?usp=drive_link
 
 Note:
 - These images are intended only for lab practice.
