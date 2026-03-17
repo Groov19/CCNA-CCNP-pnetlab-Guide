@@ -12,8 +12,7 @@ Includes:
 - Cisco SDWAN bond,edge,management and smart.
 
 Google Drive Link:
-https://drive.google.com/drive/folders/1ow4_rk7_Mdf2fnkjaCSK30CEnNDa4H1a?usp=sharing
-https://drive.google.com/drive/folders/1Z36piVVEtp0OS1ALpxwOY-iXkk3p-Nff?usp=drive_link
+https://drive.google.com/drive/folders/1FIbx3wWwYKLp5z2bwdDG7exJS2eP43L_?usp=drive_link
 
 Note:
 - These images are intended only for lab practice.
