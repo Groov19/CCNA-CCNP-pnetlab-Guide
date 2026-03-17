@@ -1,6 +1,6 @@
 PNETLab QCOW and iou Images Repository and Lab guide
 
-This link contains all QCOW2 and iou images required to run the labs in this repository.
+The below link contains all QCOW2 and iou images required to run the labs in this repository.
 
 Includes:
 - Cisco L2 and L3 bin
