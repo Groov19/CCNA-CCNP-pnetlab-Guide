@@ -1,0 +1,38 @@
+# VLAN & VTP Lab (Multi-Switch with DHCP)
+
+## Objective
+Configure VLANs across multiple switches using VTP.  
+Ensure VLANs are synchronized between switches.  
+Configure DHCP on the router so all hosts receive IP addresses and can communicate.
+
+## Requirements
+- 3 × Cisco L2 IOU Switches  
+- 1 × Cisco L3 IOU Router  
+- 10 × VPC  
+
+## What You Will Do
+- Configure VTP domain and modes (server, client, transparent)  
+- Create VLANs on the VTP server switch  
+- Ensure VLANs propagate to other switches  
+- Configure trunk links between switches  
+- Assign correct VLANs to access ports  
+- Configure DHCP on router  
+- Verify IP assignment and connectivity  
+
+## Expected Outcome
+- VLANs are synchronized across switches  
+- All VPCs receive correct IP addresses via DHCP  
+- Hosts across VLANs can communicate as expected  
+
+## Lab Files
+- IOU images are available in the Google Drive link  
+- Follow setup steps to import into PNETLab  
+- Import the `.unl` file to access the lab  
+
+## Objectives (Detailed)
+Refer to the objective diagram inside the `.unl` file:  
+Navigate to **“Objects” (bottom panel)** in PNETLab to view it.
+
+## Reference
+This lab is based on **Jeremy’s IT Lab CCNA course** — highly recommended for CCNA preparation.
+https://www.youtube.com/watch?v=ngTns2vF_44&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=37
