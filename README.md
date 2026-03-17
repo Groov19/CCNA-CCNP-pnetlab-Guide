@@ -13,6 +13,7 @@ Includes:
 
 Google Drive Link:
 https://drive.google.com/drive/folders/1FIbx3wWwYKLp5z2bwdDG7exJS2eP43L_?usp=drive_link
+Additionally a lot of resources are availabe at https://drive.labhub.eu.org/ 
 
 Note:
 - These images are intended only for lab practice.
